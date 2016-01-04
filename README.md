@@ -1,9 +1,11 @@
-# Welcome to GA's WDI-DC
-General Assembly's Web Development Immersive Course in the District of Columbia
+# Scope, Context, and Closures
 
-## Conventions:
-- Each week has its own directory with a readme.md
-- Each week's readme contains an overview of week, including Learning Objectives.
-- Each lesson has its own directory (within the week). The lesson's readme.md contains the Lesson Plan.
+See the following mini-lessons:
 
-This is published to https://ga-dc.github.io/curriculum/
+* [Scope](scope.md)
+* [Context](context.md)
+* [Closures](closures.md)
+
+# Homework
+
+[Timer JS](https://github.com/ga-dc/timer_js)
